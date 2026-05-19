@@ -26,8 +26,8 @@ The project followed a structured data analysis workflow using Microsoft Excel:
 ### 1. Data Cleaning
 - Removed duplicate records to improve data quality
 - Standardized marital status values:
--  M → Married
--  S → Single
+  - M → Married
+  - S → Single
 - Removed unnecessary decimal formatting from currency fields
 - Reviewed dataset consistency and formatting
 ### 2. Data Transformation
@@ -36,16 +36,16 @@ The project followed a structured data analysis workflow using Microsoft Excel:
 ### 3. Data Analysis
 - Built Pivot Tables to summarize customer purchasing trends
 - Analyzed:
--  Average income by gender and bike purchase behavior
--  Customer age groups and purchase frequency
--  Commute distance and bike purchase trends
+  - Average income by gender and bike purchase behavior
+  - Customer age groups and purchase frequency
+  - Commute distance and bike purchase trends
 ### 4. Dashboard Development
 - Designed an interactive Excel dashboard
 - Added slicers for:
--  Marital Status
--  Region
--  Education
--  Occupation
+  -  Marital Status
+  -  Region
+  -  Education
+  -  Occupation
 - Created dynamic charts connected to Pivot Tables
 - Enabled real-time filtering for user-driven analysis
   
