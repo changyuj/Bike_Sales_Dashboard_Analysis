@@ -6,6 +6,7 @@ This project analyzes customer purchasing behavior using a bike sales dataset an
 
 The dashboard enables dynamic filtering through slicers for marital status, region, education, and occupation, allowing users to quickly explore customer segments and identify patterns influencing bike purchases. Key findings indicate that income, age group, and commute distance all play a significant role in customer buying behavior.
 
+![Dashboard View](image/dashboard.png)
 ## Business Problem
 
 The goal of this project was to identify the key demographic and lifestyle factors that influence bike purchases. Businesses in the retail and transportation industries need data-driven insights to better understand their customers and improve marketing strategies, product targeting, and sales performance.
